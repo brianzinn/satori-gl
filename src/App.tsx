@@ -67,10 +67,10 @@ const JSX_SAMPLES: Record<string, React.ReactNode> = {
         </h2>
         <div tw="mt-8 flex md:mt-0">
           <div tw="flex rounded-md shadow">
-            <a href="#/" tw="flex items-center justify-center rounded-md border border-transparent bg-indigo-600 px-5 py-3 text-base font-medium text-white">Get started</a>
+            <a href="#get-started" tw="flex items-center justify-center rounded-md border border-transparent bg-indigo-600 px-5 py-3 text-base font-medium text-white">Get started</a>
           </div>
           <div tw="ml-3 flex rounded-md shadow">
-            <a href="#/" tw="flex items-center justify-center rounded-md border border-transparent bg-white px-5 py-3 text-base font-medium text-indigo-600">Learn more</a>
+            <a href="#learn-more" tw="flex items-center justify-center rounded-md border border-transparent bg-white px-5 py-3 text-base font-medium text-indigo-600">Learn more</a>
           </div>
         </div>
       </div>
