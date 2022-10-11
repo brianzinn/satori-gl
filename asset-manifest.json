@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/satori-gl/static/css/main.b600b5f0.css",
+    "main.js": "/satori-gl/static/js/main.217df6df.js",
+    "static/js/787.84e626e9.chunk.js": "/satori-gl/static/js/787.84e626e9.chunk.js",
+    "index.html": "/satori-gl/index.html",
+    "main.b600b5f0.css.map": "/satori-gl/static/css/main.b600b5f0.css.map",
+    "main.217df6df.js.map": "/satori-gl/static/js/main.217df6df.js.map",
+    "787.84e626e9.chunk.js.map": "/satori-gl/static/js/787.84e626e9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b600b5f0.css",
+    "static/js/main.217df6df.js"
+  ]
+}
